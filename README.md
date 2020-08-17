@@ -8,7 +8,7 @@ I am [Davide](https://dev.davideimola.com), a young and passionate developer fro
 
 ### Programming languages
 
-<img src="./assets/python.svg" alt="python" width="32"/>
+<img src="./assets/python.svg" alt="alt text" width="32" height="32">
 
 ### 📫 How to reach me
 
