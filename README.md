@@ -6,9 +6,15 @@
 
 I am [Davide](https://dev.davideimola.com), a young and passionate developer from 🇮🇹 with a strong interest in DevOps and Cyber Security.
 
-### Programming languages
+### 🤔 Interests and knowledge
 
-<img src="./assets/python.svg" alt="alt text" width="32" height="32">
+- Python 3 🐍
+- JavaScript, TypeScript, Node.js ☕️
+- Docker 🐳
+- Kubernetes ☁️
+- Continuous Integration and Continuous Delivery 🚀
+- Ansible, Terraform, CloudFormation 🚀
+- Grafana, ELK, Prometheus 📈
 
 ### 📫 How to reach me
 
