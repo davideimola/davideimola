@@ -8,14 +8,7 @@ I am [Davide](https://dev.davideimola.com), a young and passionate developer fro
 
 ## 🤔 Interests and knowledge
 
-- Python 3 🐍
-- JavaScript, TypeScript, Node.js ☕️
-- Docker 🐳
-- Kubernetes ☁️
-- Continuous Integration and Continuous Delivery 🚀
-- Ansible, Terraform, AWS CloudFormation and Cloud Development Kit 🚀
-- Grafana, ELK, Prometheus 📈
-- Amazon Web Services, Microsoft Azure ☁️ 
+<img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" />
 
 ## 📫 How to reach me
 
