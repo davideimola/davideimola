@@ -26,7 +26,7 @@ I am [Davide](https://dev.davideimola.com), a young and passionate developer fro
     <img width="15%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" />
 </p>
 
 ## 📫 How to reach me
