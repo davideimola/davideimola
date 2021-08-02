@@ -8,25 +8,25 @@ I am [Davide](https://dev.davideimola.com), a young and passionate developer fro
 
 ## 🧰 Languages and Tools
 
-<p>
-    <img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" />
+<p align="center">
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Helm-091C84?style=for-the-badge&logo=helm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go%20lang-01ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/NGINX-1c6333?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible&logoColor=white" />
+    <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/grafana-393946?style=for-the-badge&logo=grafana&logoColor=white" />
+    <img src="https://img.shields.io/badge/elastic-white?style=for-the-badge&logo=elastic&logoColor=black" />
+    <img src="https://img.shields.io/badge/jenkins-212529?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
 ## 📫 How to reach me
