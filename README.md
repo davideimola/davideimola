@@ -13,6 +13,12 @@ Co-founder of [Schrödinger Hat](https://schroedinger-hat.org), an open source c
 
 **[Argus](https://github.com/argusappsec/argus)** is an open-source application security agent. It runs real scanners, reads their findings, weighs them against your organization's context, and answers back in plain language. Terminal chat, GitHub pull requests, MCP.
 
+The container image ships the scanners preinstalled, so trying it is one command:
+
+```sh
+docker run -it -v argus-data:/data -p 8080:8080 ghcr.io/argusappsec/argus
+```
+
 It is early, and that is exactly what it needs: people running it on real code. Try it, then tell me where it gets things wrong. [Open an issue](https://github.com/argusappsec/argus/issues).
 
 ## How I work
@@ -40,3 +46,11 @@ It is early, and that is exactly what it needs: people running it on real code. 
 
 - [davideimola.dev](https://davideimola.dev) for everything I write, build and speak about.
 - [A monthly digest](https://davideimola.dev/newsletter) of it, in your inbox.
+
+---
+
+```
+❯ whoami
+Davide Imola · Tech Lead · Verona, Italy
+❯ _
+```
