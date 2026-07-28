@@ -1,43 +1,42 @@
-### Hi there 👋
-
-<!--
-**davideimola/davideimola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-I am [Davide](https://davideimola.com), a young and passionate developer from 🇮🇹 with a strong interest in DevOps and Cyber Security.
-
-## 🧰 Programming Languages
-
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-80ea6e?style=for-the-badge&logo=springboot&logoColor=black" />
-    <img src="https://img.shields.io/badge/Go%20lang-01ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/domain.svg">
+    <img src="brand/domain-dark.svg" alt="davideimola.dev" width="420">
+  </picture>
 </p>
 
-## ☁ ️Cloud and external tools
+Tech Lead at [RedCarbon](https://redcarbon.ai), building AI agents for cybersecurity. Open source builder. I believe what you learn must be shared.
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Helm-091C84?style=for-the-badge&logo=helm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/NGINX-1c6333?style=for-the-badge&logo=nginx&logoColor=white" />
-    <img src="https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible&logoColor=white" />
-    <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-    <img src="https://img.shields.io/badge/grafana-393946?style=for-the-badge&logo=grafana&logoColor=white" />
-    <img src="https://img.shields.io/badge/elastic-white?style=for-the-badge&logo=elastic&logoColor=black" />
-    <img src="https://img.shields.io/badge/jenkins-212529?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
+Co-founder of [Schrödinger Hat](https://schroedinger-hat.org), an open source community of 20k+ people across Europe, and co-organizer of [Open Source Day](https://osday.dev), 500+ attendees in Florence every year.
 
-## 📫 How to reach me
+## Currently building
 
-- Read my [blog](https://www.davideimola.com/blog) 🌐
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/davideimola/) 👨🏻‍💻
-- Send me an [email](mailto:davide.imola@icloud.com) 📧
+**[Argus](https://github.com/argusappsec/argus)** is an open-source application security agent. It runs real scanners, reads their findings, weighs them against your organization's context, and answers back in plain language. Terminal chat, GitHub pull requests, MCP.
+
+It is early, and that is exactly what it needs: people running it on real code. Try it, then tell me where it gets things wrong. [Open an issue](https://github.com/argusappsec/argus/issues).
+
+## How I work
+
+- Decisions get written down. ADRs sit in the repo next to the code they explain, so the reasoning survives the commit.
+- I publish what I learn, including the parts that did not work. [I Built a Tool I Don't Use](https://davideimola.dev/blog/i-built-a-tool-i-dont-use) is the retrospective of a tool I shipped, was proud of, and never used.
+- Then I go say it out loud: GoLab, KCD Italy, WeAreDevelopers World Congress, DevSecOps Day, Incontro DevOps Italia.
+
+## Latest writing
+
+<!-- BLOG-POSTS:START -->
+- [I Built a Tool I Don't Use](https://davideimola.dev/blog/i-built-a-tool-i-dont-use)
+- [Stop Prompting. Start Thinking.](https://davideimola.dev/blog/stop-prompting-start-thinking)
+- [I Rebuilt My Site Twice. Here's What the Second Time Taught Me.](https://davideimola.dev/blog/i-rebuilt-my-site-twice)
+<!-- BLOG-POSTS:END -->
+
+## Stack
+
+- **Go** is the primary language: production microservices, two GoLab talks.
+- **Kubernetes and Flux** are the platform backbone: GitOps, with talks at KCD Italy, DevOps Day and Incontro DevOps.
+- **TypeScript and Next.js** for product frontend, and for [davideimola.dev](https://davideimola.dev).
+- **DDD, TDD and GitOps** are how all of the above stays maintainable. The tests are not optional.
+
+## Elsewhere
+
+- [davideimola.dev](https://davideimola.dev) for everything I write, build and speak about.
+- [A monthly digest](https://davideimola.dev/newsletter) of it, in your inbox.
