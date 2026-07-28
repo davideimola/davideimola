@@ -24,9 +24,9 @@ It is early, and that is what it needs: people running it on real code. Try it, 
 
 ## How I work
 
-- Decisions get written down. ADRs sit in the repo next to the code they explain, so the reasoning survives the commit.
-- I publish what I learn, including the parts that did not work. [I Built a Tool I Don't Use](https://davideimola.dev/blog/i-built-a-tool-i-dont-use) is the retrospective of a tool I shipped, was proud of, and never used.
-- Then I go say it out loud: GoLab, KCD Italy, WeAreDevelopers World Congress, DevSecOps Day, Incontro DevOps Italia.
+- **Decisions get written down.** ADRs sit in the repo next to the code they explain, so the reasoning survives the commit.
+- **I publish what I learn, including what did not work.** [I Built a Tool I Don't Use](https://davideimola.dev/blog/i-built-a-tool-i-dont-use) is the retrospective of a tool I shipped, was proud of, and never used.
+- **Then I go say it out loud.** GoLab, KCD Italy, WeAreDevelopers World Congress, DevSecOps Day, Incontro DevOps Italia.
 
 ## Latest writing
 
