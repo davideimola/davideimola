@@ -5,21 +5,22 @@
   </picture>
 </p>
 
-Tech Lead at [RedCarbon](https://redcarbon.ai), building AI agents for cybersecurity. Open source builder. I believe what you learn must be shared.
+Tech Lead at [RedCarbon](https://redcarbon.ai), building AI agents for cybersecurity. Open source builder.
 
-Co-founder of [Schrödinger Hat](https://schroedinger-hat.org), an open source community of 20k+ people across Europe, and co-organizer of [Open Source Day](https://osday.dev), 500+ attendees in Florence every year.
+> I believe what you learn must be shared.
+
+- Co-founder of [Schrödinger Hat](https://schroedinger-hat.org) · an open source community of 20k+ people across Europe
+- Co-organizer of [Open Source Day](https://osday.dev) · 500+ attendees in Florence, every year
 
 ## Currently building
 
-**[Argus](https://github.com/argusappsec/argus)** is an open-source application security agent. It runs real scanners, reads their findings, weighs them against your organization's context, and answers back in plain language. Terminal chat, GitHub pull requests, MCP.
-
-The container image ships the scanners preinstalled, so trying it is one command:
+**[Argus](https://github.com/argusappsec/argus)** is an open-source application security agent: it runs real scanners, reasons over their findings with your organization's context, and answers back in plain language. Terminal chat, GitHub pull requests, MCP.
 
 ```sh
 docker run -it -v argus-data:/data -p 8080:8080 ghcr.io/argusappsec/argus
 ```
 
-It is early, and that is exactly what it needs: people running it on real code. Try it, then tell me where it gets things wrong. [Open an issue](https://github.com/argusappsec/argus/issues).
+It is early, and that is what it needs: people running it on real code. Try it, then [tell me where it gets things wrong](https://github.com/argusappsec/argus/issues).
 
 ## How I work
 
