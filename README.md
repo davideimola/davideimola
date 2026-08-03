@@ -31,9 +31,9 @@ It is early, and that is what it needs: people running it on real code. Try it, 
 ## Latest writing
 
 <!-- BLOG-POSTS:START -->
+- [Introducing Argus: The Code Security Colleague Your Team Doesn't Have](https://davideimola.dev/blog/introducing-argus)
 - [I Built a Tool I Don't Use](https://davideimola.dev/blog/i-built-a-tool-i-dont-use)
 - [Stop Prompting. Start Thinking.](https://davideimola.dev/blog/stop-prompting-start-thinking)
-- [I Rebuilt My Site Twice. Here's What the Second Time Taught Me.](https://davideimola.dev/blog/i-rebuilt-my-site-twice)
 <!-- BLOG-POSTS:END -->
 
 ## Stack
