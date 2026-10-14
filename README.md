@@ -1,13 +1,15 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="brand/domain.svg">
-    <img src="brand/domain-dark.svg" alt="davideimola.dev" width="420">
+    <source media="(prefers-color-scheme: dark)" srcset="brand/lockup-dark.svg">
+    <img src="brand/lockup.svg" alt="Davide Imola" width="440">
   </picture>
 </p>
 
-Tech Lead at [RedCarbon](https://redcarbon.ai), building AI agents for cybersecurity. Open source builder.
+**I build AI agents for security, and the tools I need along the way. Everything I learn, I share.**
 
-> I believe what you learn must be shared.
+Tech Lead at [RedCarbon](https://redcarbon.ai), mostly in Go.
+
+> What you learn, you must share.
 
 - Co-founder of [Schrödinger Hat](https://schroedinger-hat.org) · an open source community of 20k+ people across Europe
 - Co-organizer of [Open Source Day](https://osday.dev) · 500+ attendees in Florence, every year
@@ -22,6 +24,11 @@ docker run -it -v argus-data:/data -p 8080:8080 ghcr.io/argusappsec/argus
 
 It is early, and that is what it needs: people running it on real code. Try it, then [tell me where it gets things wrong](https://github.com/argusappsec/argus/issues).
 
+And for myself, because the tools I want rarely exist:
+
+- **[tsundoku](https://github.com/davideimola/tsundoku)** keeps my books and comics: what I am reading, what I finished, what comes next.
+- **[kanpai](https://github.com/davideimola/kanpai)** will do the same for wine and spirits. In progress.
+
 ## How I work
 
 - **Decisions get written down.** ADRs sit in the repo next to the code they explain, so the reasoning survives the commit.
@@ -31,9 +38,9 @@ It is early, and that is what it needs: people running it on real code. Try it, 
 ## Latest writing
 
 <!-- BLOG-POSTS:START -->
+- [AI Agent Sessions Are a Data Store Nobody Designed](https://davideimola.dev/blog/ai-agent-sessions-data-store)
 - [Introducing Argus: The Code Security Colleague Your Team Doesn't Have](https://davideimola.dev/blog/introducing-argus)
 - [I Built a Tool I Don't Use](https://davideimola.dev/blog/i-built-a-tool-i-dont-use)
-- [Stop Prompting. Start Thinking.](https://davideimola.dev/blog/stop-prompting-start-thinking)
 <!-- BLOG-POSTS:END -->
 
 ## Stack
@@ -50,8 +57,10 @@ It is early, and that is what it needs: people running it on real code. Try it, 
 
 ---
 
-```
-❯ whoami
-Davide Imola · Tech Lead · Verona, Italy
-❯ _
-```
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/mark-s-dark.svg">
+    <img src="brand/mark-s.svg" alt="" width="28" align="left">
+  </picture>
+  &nbsp;Davide Imola · Verona, Italy · <a href="https://github.com/davideimola/brand">the brand</a>
+</p>
