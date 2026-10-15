@@ -7,7 +7,7 @@
 
 **I build AI agents for security, and the tools I need along the way. Everything I learn, I share.**
 
-Tech Lead at [RedCarbon](https://redcarbon.ai), mostly in Go.
+Tech Lead at [RedCarbon](https://redcarbon.ai). I write mostly Go.
 
 > What you learn, you must share.
 
