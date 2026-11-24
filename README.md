@@ -11,8 +11,8 @@ Tech Lead at [RedCarbon](https://redcarbon.ai). I write mostly Go.
 
 > What you learn, you must share.
 
-- Co-founder of [Schrödinger Hat](https://schroedinger-hat.org) · an open source community of 20k+ people across Europe
-- Co-organizer of [Open Source Day](https://osday.dev) · 500+ attendees in Florence, every year
+- Co-founded Schrödinger Hat, an open source community of 20k+ people across Europe, and ran it from 2022 to 2026
+- Organised Open Source Day, its conference in Florence, 500+ attendees every spring from 2023 to 2026
 
 ## Currently building
 
